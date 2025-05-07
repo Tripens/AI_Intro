@@ -9,3 +9,10 @@ This repository was created for a brief introduction to Artificial Intelligence 
 (http://neuralnetworksanddeeplearning.com/)
  
 > 周志华. 机器学习. 清华大学出版社, 2016.
+
+其他需要学习的知识：
+>离散数学
+
+>概率论
+
+>运筹学
